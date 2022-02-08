@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fbxmuz
 - 👀 I’m interested in algorithms
-- 🌱 I’m currently learning Data Science - especially Stastics
+- 🌱 I’m currently learning Data Science - especially Statistics
 - 📫 How to reach me fbxmus@gmail.com
 
 <!---
